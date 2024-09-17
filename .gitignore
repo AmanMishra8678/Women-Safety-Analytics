@@ -1,0 +1,17 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+.env
+venv/
+.venv/
+
+#CSV Files
+gender_counts.csv
+
+#test videos
+exx4.mp4
